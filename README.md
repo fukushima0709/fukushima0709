@@ -2,7 +2,7 @@
 - 名前：福島　啓太 (Keita Fukushima)<br>
 - 所属：愛媛大学 工学部 工学科 [人工知能研究室](https://sites.google.com/view/ehime-nlp/) B4<br>
 - Email：fukushima@ai.cs.ehime-u.ac.jp<br>
-- Atcoder:https://atcoder.jp/users/golden_wind<br>
+- Atcoder：https://atcoder.jp/users/golden_wind<br>
 
 ### 研究業績
 #### 国内会議
