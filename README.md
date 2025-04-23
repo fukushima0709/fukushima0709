@@ -1,6 +1,6 @@
 ### プロフィール
 - 名前：福島　啓太 (Keita Fukushima)<br>
-- 所属：愛媛大学 大学院理工学研究科　数理情報 [自然言語処理研究室](https://sites.google.com/view/ehime-nlp/) M1<br>
+- 所属：愛媛大学 大学院　大学院理工学研究科　理工学専攻　数理情報プログラム [自然言語処理研究室](https://sites.google.com/view/ehime-nlp/) M1<br>
 - Email：fukushima@ai.cs.ehime-u.ac.jp<br>
 
 ### 研究業績
@@ -19,5 +19,5 @@
   NLP若手の会第19回シンポジウム（YANS2024）, September 2024．<br>
 
 ### 受賞
-- 第2回AAMT若手翻訳研究会　優秀賞<br>
+- 第2回AAMT若手翻訳研究会　優秀賞：『多言語文符号化器からの言語非依存な文埋め込みの抽出』<br>
 - NLP若手の会第19回シンポジウム(2024)ハッカソン賞　川柳ハッカソン　審査員特別賞
