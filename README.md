@@ -24,6 +24,7 @@
 
 ### 参加プロジェクト
 - 第2回AAMT若手翻訳研究会<br>
+- 大規模言語モデル講座(https://weblab.t.u-tokyo.ac.jp/lecture/course-list/large-language-model/)　修了<br>
 
 ### 開発
 - NLP若手の会第19回シンポジウム（YANS2024）ハッカソンへの参加<br>
