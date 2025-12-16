@@ -5,7 +5,7 @@
 
 ### 研究業績
 #### 国際会議
-- **Keita Fukushima**, Tomoyuki Kajiwara, Takashi Ninomiya -
+- **Keita Fukushima**, Tomoyuki Kajiwara, Takashi Ninomiya. <br>
 　Reversible Disentanglement of Meaning and Language Representations from Multilingual Sentence Encoders. <br>
 　Proceedings of the 5th Workshop on Multilingual Representation Learning (MRL 2025), nov 2025. <br>
 
