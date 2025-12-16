@@ -4,6 +4,11 @@
 - Email：fukushima@ai.cs.ehime-u.ac.jp<br>
 
 ### 研究業績
+#### 国際会議
+- **Keita Fukushima**, Tomoyuki Kajiwara, Takashi Ninomiya -
+　Reversible Disentanglement of Meaning and Language Representations from Multilingual Sentence Encoders. <br>
+　Proceedings of the 5th Workshop on Multilingual Representation Learning (MRL 2025), nov 2025. <br>
+
 #### 国内会議
 - **福島 啓太**，梶原 智之，二宮 崇．<br>
   多言語文符号化器からの言語非依存な文埋め込みの抽出．<br>
