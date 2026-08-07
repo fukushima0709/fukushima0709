@@ -5,10 +5,6 @@
 
 ### 研究業績
 #### 国際会議
-- **Keita Fukushima**, Tomoyuki Kajiwara, Takashi Ninomiya. <br>
-　Reversible Disentanglement of Meaning and Language Representations from Multilingual Sentence Encoders. <br>
-　Proceedings of the 5th Workshop on Multilingual Representation Learning (MRL 2025), nov 2025. <br>
-
 - Kanade Nonomura, **Keita Fukushima**, Risa Kondo, Tomoyuki Kajiwara. <br>
 Disentangling Meaning and Language Components in Diverse Multilingual Sentence Embeddings. <br>
 In Proceedings of the ACL 2026 Student Research Workshop (ACL 2026 SRW), pp.xxx-xxx, San Diego, California, United States, July 2026. (to appear)
@@ -16,6 +12,10 @@ In Proceedings of the ACL 2026 Student Research Workshop (ACL 2026 SRW), pp.xxx-
 - Kanade Nonomura, **Keita Fukushima**, Risa Kondo, Tomoyuki Kajiwara. <br>
 Mitigating Language Bias in Multilingual Sentence Embeddings for Cross-Lingual Similarity Estimation. <br>
 In Proceedings of the 15th Joint Conference on Lexical and Computational Semantics (*SEM2026), pp.xxx-xxx, San Diego, California, United States, July 2026. (to appear)
+
+- **Keita Fukushima**, Tomoyuki Kajiwara, Takashi Ninomiya. <br>
+　Reversible Disentanglement of Meaning and Language Representations from Multilingual Sentence Encoders. <br>
+　Proceedings of the 5th Workshop on Multilingual Representation Learning (MRL 2025), nov 2025. <br>
 
 #### 国内会議
 - 野々村 奏, **福島 啓太**, 近藤 里咲, 梶原 智之.  <br>
