@@ -1,6 +1,6 @@
 ### プロフィール
 - 名前：福島　啓太 (Keita Fukushima)<br>
-- 所属：愛媛大学大学院 理工学研究科 理工学専攻 数理情報プログラム [自然言語処理研究室](https://sites.google.com/view/ehime-nlp/) M1<br>
+- 所属：愛媛大学大学院 理工学研究科 理工学専攻 数理情報プログラム [自然言語処理研究室](https://sites.google.com/view/ehime-nlp/) M2<br>
 - Email：fukushima@ai.cs.ehime-u.ac.jp<br>
 
 ### 研究業績
